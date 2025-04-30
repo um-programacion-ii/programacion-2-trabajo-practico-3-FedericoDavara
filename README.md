@@ -11,9 +11,12 @@
 - **Recomendación:** Se sugiere leer la consigna completa antes de comenzar con el desarrollo para tener una visión general del proyecto y planificar adecuadamente el trabajo.
 
 ## Identificación del Alumno
-- **Nombre:** [Nombre del Alumno]
-- **Apellido:** [Apellido del Alumno]
-- **Legajo:** [Número de Legajo]
+- **Nombre:** Federico
+- **Apellido:** Davara
+- **Legajo:** 59098
+
+#Correr cada test
+- Para probar cada test utilizar el boton play en IntelliJ Idea, ademas se pueden modificar los valores dentro de los test para ver que funcionan con otros valores o tambien se pueden cargar datos erroneos para verificar que los test no pasan
 
 ## Importante
 - La rama `main` está protegida y no se pueden hacer commits directos sobre ella
